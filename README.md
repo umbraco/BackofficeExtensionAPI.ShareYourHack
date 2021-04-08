@@ -14,7 +14,7 @@ We would love to see a lot of examples of your creative backoffice extensions. E
 
 Find the format you think tells your story the best way: video, blog posts, code pens, gists, repositories, or whatever works best for you. We would love it if you share your hack on the [discussion board](https://github.com/umbraco/DefineBackofficeExtensionAPI/discussions) of this repository, so it can contribute to the overall discussion and might spark ideas in other community members. We also fully understand if you are not able to share it in public so feel free to send your extension/story/hack to backoffice@umbraco.com
 
-###This is how you use the board:###
+### This is how you use the board
 
 **Go to the discussion board on the new repository and start a new discussion**
 <img width="1191" alt="Screenshot 2021-04-07 at 09 26 08" src="https://user-images.githubusercontent.com/6078361/114006721-f8992300-9860-11eb-8f78-283166278573.png">
