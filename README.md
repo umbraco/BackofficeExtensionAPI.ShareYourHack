@@ -21,6 +21,11 @@ Find the format you think tells your story the best way: video, blog posts, code
 
 
 **Select the category that fits your topic and start your story**
-<img width="1191" alt="Screenshot 2021-04-07 at 09 26 25" src="https://user-images.githubusercontent.com/6078361/114006782-05b61200-9861-11eb-9ac6-6ee55922a3ca.png">
+
+* Choose "General" to share your thoughts and ideas on how we should extend the backoffice in the future
+* Choose "Share Your Hack" to show us some of your wonderful workarounds
+
+<img width="1180" alt="Screenshot 2021-04-08 at 13 32 40" src="https://user-images.githubusercontent.com/6078361/114019687-ffc72d80-986e-11eb-8c83-3561766229e4.png">
+
 
 We have made an [example discussion](https://github.com/umbraco/DefineBackofficeExtensionAPI/discussions/2) as inspiration but feel free to tell your story the way you like.
