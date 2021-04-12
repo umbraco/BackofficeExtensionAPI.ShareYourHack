@@ -1,5 +1,7 @@
 # Future-proofing the backoffice Part 2: Define the extension API
 
+Read about the project in this blog post: https://umbraco.com/blog/future-proofing-the-backoffice-define-the-extension-api/
+
 ## Discussion Board
 
 As part of defining the extension API for the new backoffice, we have created this new repository with a [discussion board](https://github.com/umbraco/DefineBackofficeExtensionAPI/discussions). Feel free to share all your ideas and thoughts about the new extension API there. It will be open to everyone to follow and participate in the discussion. At the moment the repository will only be used for its discussion area.
